@@ -1,0 +1,2 @@
+module NewsCardsHelper
+end
