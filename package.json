@@ -4,8 +4,8 @@
   "dependencies": {
     "@rails/webpacker": "3.5",
     "@types/jquery": "^3.3.29",
-    "@types/react": "^16.8.10",
-    "@types/react-dom": "^16.8.3",
+    "@types/react": "^16.8.17",
+    "@types/react-dom": "^16.8.4",
     "axios": "^0.18.0",
     "babel-preset-react": "^6.24.1",
     "prop-types": "^15.7.2",
@@ -13,7 +13,7 @@
     "react-dom": "^16.8.3",
     "react_ujs": "^2.4.4",
     "ts-loader": "3.5.0",
-    "typescript": "^3.3.4000"
+    "typescript": "^3.4.5"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
