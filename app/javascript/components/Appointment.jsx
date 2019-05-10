@@ -1,3 +1,5 @@
+// To run webpack ./bin/webpack-dev-server
+
 import React from "react"
 
 class Appointment extends React.Component {
